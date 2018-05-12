@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '4569'
     url: http://www.gutenberg.org/2009/agents/4569
 description: Illustrated by the editor.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26690#The-Pirates-of-Panamaor-The-Buccaneers-of-America--a-True-Account-of-the-Famous-Adventures-an_
 gutenberg_issued: '2008-09-23'
 gutenberg_type: Text
 identifiers:
