@@ -1,0 +1,40 @@
+_repo: The-Pirates-of-Panamaor-The-Buccaneers-of-America--a-True-Account-of-the-Famous-Adventures-an__26690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Exquemelin, A. O. (Alexandre Olivier)
+    aliases:
+    - Oexmelin, Alexandre Olivier
+    - Esquemeling, Alexander Olivier
+    gutenberg_agent_id: '32177'
+    url: http://www.gutenberg.org/2009/agents/32177
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Exquemelin
+  editor:
+    agent_name: Williams, George Alfred
+    birthdate: 1875
+    deathdate: 1932
+    gutenberg_agent_id: '4569'
+    url: http://www.gutenberg.org/2009/agents/4569
+description: Illustrated by the editor.
+gutenberg_issued: '2008-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates'
+- !lcsh 'West Indies -- History'
+- !lcsh 'Spanish Main'
+- !lcsh 'Buccaneers'
+- !lcc 'F1561'
+title: 'The Pirates of Panama
+
+  or, The Buccaneers of America; a True Account of the Famous Adventures and Daring
+  Deeds of Sir Henry Morgan and Other Notorious Freebooters of the Spanish Main'
+url: http://www.gutenberg.org/ebooks/26690
